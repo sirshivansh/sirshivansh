@@ -1,42 +1,64 @@
+<!-- ─────────────────────────────────────────────────────── -->
+<!--  VISITOR COUNTER — always first                        -->
+<!-- ─────────────────────────────────────────────────────── -->
+
 <div align="center">
 
-[![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsirshivansh&count_bg=%2300D9A3&title_bg=%23111827&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Visits&edge_flat=true)](https://hits.seeyoufarm.com)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsirshivansh&count_bg=%2300D9A3&title_bg=%230D1117&icon=eye.svg&icon_color=%2300D9A3&title=Visitors&edge_flat=true" alt="Visitor Count" />
 
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d2e,100:00D9A3&height=140&section=header&text=Shivansh%20Mishra&fontSize=42&fontColor=FFFFFF&fontAlignY=55&desc=Computer%20Engineer%20%E2%80%A2%20Mumbai%20University&descAlignY=78&descSize=16&descColor=00D9A3" />
-</div>
-
-<br>
+<!-- ─────────────────────────────────────────────────────── -->
+<!--  HEADER                                                -->
+<!-- ─────────────────────────────────────────────────────── -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00D9A3&center=true&vCenter=true&width=520&lines=3rd+Year+%E2%80%94+Computer+Engineering+%40+MU;Full-Stack+Web+Development;Deep-diving+into+Java+(MOOC.fi);Building%2C+Learning%2C+Shipping." alt="Typing SVG" />
+
+# Shivansh Mishra
+
+**Computer Engineer · Mumbai University · 3rd Year**
+
+`Mumbai, India` &nbsp;·&nbsp; `Java & Full-Stack` &nbsp;·&nbsp; `Building & Learning`
+
 </div>
 
 <br>
 
 ---
 
+<br>
+
+<!-- ─────────────────────────────────────────────────────── -->
+<!--  CONTRIBUTION SNAKE — early, as requested             -->
+<!-- ─────────────────────────────────────────────────────── -->
+
 <div align="center">
 
-**Mumbai, India** &nbsp;·&nbsp; English & Hindi &nbsp;·&nbsp; Open to Connect
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirshivansh/sirshivansh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirshivansh/sirshivansh/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sirshivansh/sirshivansh/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
+
+<br>
 
 ---
 
 <br>
 
-## Stats
+<!-- ─────────────────────────────────────────────────────── -->
+<!--  STATS                                                 -->
+<!-- ─────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=sirshivansh&show_icons=true&theme=tokyonight&border_radius=10&border_color=1e3a2f&bg_color=0d1117&title_color=00D9A3&icon_color=00D9A3&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirshivansh&layout=compact&theme=tokyonight&border_radius=10&border_color=1e3a2f&bg_color=0d1117&title_color=00D9A3&text_color=c9d1d9&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sirshivansh&show_icons=true&theme=tokyonight&border_radius=10&border_color=1e3a2f&bg_color=0d1117&title_color=00D9A3&icon_color=00D9A3&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirshivansh&layout=compact&theme=tokyonight&border_radius=10&border_color=1e3a2f&bg_color=0d1117&title_color=00D9A3&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -54,25 +76,36 @@
 
 <br>
 
+<!-- ─────────────────────────────────────────────────────── -->
+<!--  TECH STACK — elegant badge pills, no external icons  -->
+<!-- ─────────────────────────────────────────────────────── -->
+
 ## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql&theme=dark" />
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2300758F?style=flat-square&logo=mysql&logoColor=white)
 
-<br><br>
+<br>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
 
-<br><br>
+<br>
 
-**Tools**
+**Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" />
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -82,44 +115,22 @@
 
 <br>
 
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirshivansh/sirshivansh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirshivansh/sirshivansh/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sirshivansh/sirshivansh/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br>
-
----
-
-<br>
+<!-- ─────────────────────────────────────────────────────── -->
+<!--  CONNECT                                               -->
+<!-- ─────────────────────────────────────────────────────── -->
 
 ## Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shivanshconnection/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivansh%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/shivanshconnection/)
 &nbsp;
-<a href="mailto:shivanshconnection@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/sirshivansh">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-shivanshconnection-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:shivanshconnection@gmail.com)
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A3,50:0a3d2e,100:0D1117&height=100&section=footer" />
+<sub>Built with focus · Mumbai, India</sub>
 </div>
