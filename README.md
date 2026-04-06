@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=sirshivansh.gh_profile&left_text=Visitors&left_color=0D1117&right_color=00D9A3" alt="Visitor Count" />
@@ -78,4 +78,3 @@
 <div align="center">
 <sub>Built with 💚 in Mumbai, India</sub>
 </div>
-```
